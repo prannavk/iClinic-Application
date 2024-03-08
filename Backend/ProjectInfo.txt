@@ -1,0 +1,6 @@
+iClinic - Appointment Management System
+----------------------------------------
+
+Update:
+- Source Code yet to be imported from AWS Code Commit Working Repository.
+- Some Configurations, Bug Fixes and Enhancements are remaining, after which the Project Source Code will be uploaded here.
